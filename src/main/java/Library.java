@@ -6,6 +6,7 @@ public class Library {
 		Library lib = new Library();
 		if (lib.someLibraryMethod())
 			System.out.println("test");
+			System.out.println("!!!REDSOX EDIT!!!");
 	}
     public boolean someLibraryMethod() {
         return true;
